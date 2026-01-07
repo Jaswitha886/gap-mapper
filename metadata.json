@@ -1,0 +1,5 @@
+{
+  "name": "AI Learning Gap Mapper",
+  "description": "A precision diagnostic tool for educators and students that identifies missing prerequisite concepts based on a provided syllabus and student input, generating a logical learning path.",
+  "requestFramePermissions": []
+}
